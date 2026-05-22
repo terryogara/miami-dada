@@ -48,7 +48,7 @@ This composition relies on external SoundFont files to achieve its cinematic,
 noir-cabaret sound. If you wish to run the code locally, please download the following:
 
 * **[Synths.sf2](https://www.polyphone.io/en/soundfonts/synthesizers/186-various-synths)**: A collection of sampled electronic synthesizers and effects.
-* **[Emu_Planet_Phatt_Hip_Hop.sf2](https://www.polyphone.io/en/soundfonts/instrument-sets/405-planet-phatt-examples)**: Iconic sounds from the classic 1990s E-mu Systems hardware module.
+* **[planetphatt.sf2](https://www.polyphone.io/en/soundfonts/instrument-sets/405-planet-phatt-examples)**: Iconic sounds from the classic 1990s E-mu Systems hardware module.
 
 > **Important Note:** After downloading these files, ensure they are renamed exactly to
  `Synths.sf2` and `Emu_Planet_Phatt_Hip_Hop.sf2` respectively, and place them in the 
