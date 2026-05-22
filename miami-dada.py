@@ -7,9 +7,9 @@ playback_settings.recording_file_path = "miamidada_terryogara_120723.wav"
 
 # TITLE: 'Miami Dada' 
 # COMPOSER: Terry O'Gara
-# DATE: 12/07/2023
 # COPYRIGHT: (c) 2023 Terry O'Gara. All rights reserved.
 # ABOUT THIS PROJECT: Cinematic computer music composition scored using Python
+# LICENSE: MIT
 
 # ----------------------------------------------------------------------------
 
