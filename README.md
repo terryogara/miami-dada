@@ -69,7 +69,7 @@ If you prefer to listen without saving to your disk, open miami-dada.py and chan
 GENERATE_WAV = True to GENERATE_WAV = False.
 
 *(Note: Audio preview is available in the
-[Releases](https://github.com/terryogara/compmus-miamidada/releases)
+[Releases](https://github.com/terryogara/miami-dada/releases/tag/v1.0.0)
 section.)*
 
 ---
