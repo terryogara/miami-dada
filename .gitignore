@@ -1,0 +1,38 @@
+
+# --- Audio and Large Assets ---
+
+# Exclude heavy binaries so the repo stays light
+
+*.wav
+
+*.sf2
+
+
+
+# --- System Files ---
+
+# Ignore system-generated files
+
+.DS_Store
+
+Thumbs.db
+
+
+
+# --- Python / Environment ---
+
+# Ignore compiled python files and cache
+
+__pycache__/
+
+*.pyc
+
+
+
+# --- Local Reference Files ---
+
+# Ignore composer sound font reference guide
+
+sound-fonts-list-for-reference.txt
+
+
