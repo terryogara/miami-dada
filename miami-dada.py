@@ -808,8 +808,9 @@ def endline():
     vox5.play_note(77, 0.7, 1/3) #f
     synthx.play_note(69, 0.7, 1/3) #a
     
-    
-#     #em - decided not to use these, but saving them if I decide to change back at a later date
+
+#     Decided not to use the following, but saving if I decide to change back at a later date
+#     #em
 #     synthx.play_note(76, 0.7, 1/3) #e
 #     vox5.play_note(79, 0.7, 1/3) #g
 #     synthx.play_note(72, 0.7, 1/3) #b
