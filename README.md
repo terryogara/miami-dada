@@ -63,7 +63,7 @@ library.
 2. **Setup:** Place your SoundFont files (`Synths.sf2`,
 `Emu_Planet_Phatt_Hip_Hop.sf2`) in the project directory.
 3. **Execution:** Run the script from your terminal:
-   `python3 miamidada_terryogara_120723.py`
+   `python3 miami-dada.py`
 4. Customization Note: By default, this script saves the composition to a .wav file. 
 If you prefer to listen without saving to your disk, open miami-dada.py and change 
 GENERATE_WAV = True to GENERATE_WAV = False.
@@ -73,4 +73,4 @@ GENERATE_WAV = True to GENERATE_WAV = False.
 section.)*
 
 ---
-**Copyright © 2022–2026 Terry O'Gara. All rights reserved.**
+**Copyright © 2023 Terry O'Gara. All rights reserved.**
