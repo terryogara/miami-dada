@@ -808,42 +808,6 @@ def endline():
     vox5.play_note(77, 0.7, 1/3) #f
     synthx.play_note(69, 0.7, 1/3) #a
     
-
-#     Decided not to use the following, but saving if I decide to change back at a later date
-#     #em
-#     synthx.play_note(76, 0.7, 1/3) #e
-#     vox5.play_note(79, 0.7, 1/3) #g
-#     synthx.play_note(72, 0.7, 1/3) #b
-#     
-#     synthx.play_note(79, 0.7, 1/3) #g
-#     vox5.play_note(72, 0.7, 1/3) #b
-#     synthx.play_note(76, 0.7, 1/3) #e
-#     
-#     synthx.play_note(72, 0.7, 1/3) #b
-#     vox5.play_note(76, 0.7, 1/3) #e
-#     synthx.play_note(79, 0.7, 1/3) #g
-#     
-#     synthx.play_note(76, 0.7, 1/3) #e
-#     vox5.play_note(79, 0.7, 1/3) #g
-#     synthx.play_note(72, 0.7, 1/3) #b
-    
-    
-    #am
-#     synthx.play_note(69, 0.7, 1/3) #a
-#     vox5.play_note(72, 0.7, 1/3) #c
-#     synthx.play_note(76, 0.7, 1/3) #e
-#     
-#     synthx.play_note(76, 0.7, 1/3) #e
-#     vox5.play_note(69, 0.7, 1/3) #a
-#     synthx.play_note(72, 0.7, 1/3) #c
-#     
-#     synthx.play_note(72, 0.7, 1/3) #c
-#     vox5.play_note(76, 0.7, 1/3) #e
-#     synthx.play_note(69, 0.7, 1/3) #a
-#     
-#     synthx.play_note(69, 0.7, 1/3) #a
-#     vox5.play_note(72, 0.7, 1/3) #c
-#     synthx.play_note(76, 0.7, 1/3) #e   
         
 # ------------------------------------------------------------------
 # BREAKDOWN: ASCENDING OCTAVES
